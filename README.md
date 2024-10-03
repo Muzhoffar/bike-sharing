@@ -1,6 +1,5 @@
-# bike-sharing
+# Submission Proyek Analisis Data - Belajar Analisis Data dengan Python (Dicoding)
 [Bike Sharing Streamlit Dashboard](https://rifqi-bikesharing-dashboard.streamlit.app/)
-Submission Proyek Analisis Data - Belajar Analisis Data dengan Python (Dicoding)
 
 ## Installation
 1.  Clone this repository
