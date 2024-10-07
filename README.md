@@ -10,7 +10,7 @@ git clone https://github.com/Muzhoffar/bike-sharing
 ```
 cd bike-sharing
 ```
-4.  Install required python packages
+3.  Install required python packages
 ```
 pip install -r requirements.txt
 ```
